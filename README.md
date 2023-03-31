@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PrernaS7
 - 👀 I’m interested in data Engineering projects
-- 🌱 I’m currently learning Pyspark and ETL Pipelines
-- 💞️ I’m looking to collaborate on cloud , bigdata and ETL Pipelines
+- 🌱 I’m currently learning Pyspark and working on ETL Pipelines
+- 💞️ I’m looking to collaborate on cloud , bigdata , data modelling and ETL Pipelines
 - 📫 Reach me @ prernashukla16@gmail.com
 
 <!---
